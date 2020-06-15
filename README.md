@@ -1,2 +1,2 @@
-# class-25
-learn about class inheritance
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
